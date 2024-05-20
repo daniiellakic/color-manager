@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
 
-## Color Manager
+# Color Manager
 
 The application is built with ReactJS (Next.js), utilizing TypeScript for type safety and Jest for testing.
 
@@ -11,16 +11,16 @@ The application is built with ReactJS (Next.js), utilizing TypeScript for type s
 - Delete Color: Remove colors from the list.
 - Filter Colors: Search through the color list by name or HEX code.
 
-## Getting Started
+# Getting Started
 
-# Prerequisites
+## Prerequisites
 
 What you need to install the software:
 
 Node.js
 npm (normally comes with Node.js)
 
-# Installation
+## Installation
 
 1. Clone the repository:
 
@@ -35,7 +35,7 @@ npm install
 
 npm start
 
-# Running the Tests
+## Running the Tests
 
 npm test
 
