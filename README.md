@@ -15,28 +15,28 @@ The application is built with ReactJS (Next.js), utilizing TypeScript for type s
 
 ## Prerequisites
 
-What you need to install the software:
+- What you need to install the software:
 
-Node.js
-npm (normally comes with Node.js)
+- Node.js
+- npm (normally comes with Node.js)
 
 ## Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/color-manager.git
-cd color-manager
+- git clone https://github.com/your-username/color-manager.git
+- cd color-manager
 
 2. Install dependencies:
 
-npm install
+- npm install
 
 3. Start the development server:
 
-npm start
+- npm start
 
 ## Running the Tests
 
-npm test
+- npm test
 
 - This command will run the test with Jest.
